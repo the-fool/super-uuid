@@ -1,0 +1,20 @@
+{
+  "name": "super-uuid",
+  "version": "1.0.0",
+  "description": "UUID Utilities",
+  "main": "./dist/super-uuid.js",
+  "repository": "github.com/the-foll/super-uuid",
+  "author": "Thomas Ruble",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec",
+    "test-with-coverage": "nyc --reporter=text mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.1",
+    "nyc": "^11.4.1",
+    "typescript": "^2.7.2"
+  }
+}
