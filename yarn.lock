@@ -1178,6 +1178,10 @@ strip-eof@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/strip-eof/-/strip-eof-1.0.0.tgz#bb43ff5598a6eb05d89b59fcd129c983313606bf"
 
+super-uuid@1.0.1:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/super-uuid/-/super-uuid-1.0.0.tgz#920c7f01239d84a90498c201844f7c473a62ac84"
+
 supports-color@4.4.0:
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-4.4.0.tgz#883f7ddabc165142b2a61427f3352ded195d1a3e"
